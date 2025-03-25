@@ -4,7 +4,11 @@ using ProductApi.Domain.Models;
 
 namespace ProductApi.Infrastructure.Data;
 
-public class ProductDbContext(DbContextOptions<ProductDbContext> options) : DbContext(options)
+public class ProductDbContext : DbContext
 {
-    public DbSet<Product> Products => Set<Product>();
+    public ProductDbContext(DbContextOptions<ProductDbContext> options) : base(options) { }
+    
+    protected ProductDbContext() { }
+
+    public DbSet<Product> Products { get; set; }
 }
