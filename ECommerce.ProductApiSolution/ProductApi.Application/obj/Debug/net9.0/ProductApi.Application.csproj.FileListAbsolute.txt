@@ -1,0 +1,17 @@
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Application.deps.json
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Application.dll
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Application.pdb
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.AssemblyInfoInputs.cache
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.AssemblyInfo.cs
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.dll
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\refint\ProductApi.Application.dll
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.pdb
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ref\ProductApi.Application.dll
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\EC.SharedLibrary.dll
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Domain.dll
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\EC.SharedLibrary.pdb
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Domain.pdb
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.csproj.AssemblyReference.cache
+D:\E-COMMERCE\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductA.E443A747.Up2Date

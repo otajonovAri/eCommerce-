@@ -1,0 +1,12 @@
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\bin\Debug\net9.0\EC.SharedLibrary.deps.json
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\bin\Debug\net9.0\EC.SharedLibrary.dll
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\bin\Debug\net9.0\EC.SharedLibrary.pdb
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\obj\Debug\net9.0\EC.SharedLibrary.csproj.AssemblyReference.cache
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\obj\Debug\net9.0\EC.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\obj\Debug\net9.0\EC.SharedLibrary.AssemblyInfoInputs.cache
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\obj\Debug\net9.0\EC.SharedLibrary.AssemblyInfo.cs
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\obj\Debug\net9.0\EC.SharedLibrary.csproj.CoreCompileInputs.cache
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\obj\Debug\net9.0\EC.SharedLibrary.dll
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\obj\Debug\net9.0\refint\EC.SharedLibrary.dll
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\obj\Debug\net9.0\EC.SharedLibrary.pdb
+D:\E-COMMERCE\ECommerce\EC.SharedLibrary\obj\Debug\net9.0\ref\EC.SharedLibrary.dll
